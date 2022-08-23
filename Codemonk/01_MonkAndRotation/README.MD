@@ -12,6 +12,13 @@ For each test case:
 ### Output:
 Print the required array.
 
+### Constraints
+1 <= T <= 20
+1 <= N <= 10^5
+0 <= K <= 10^6
+0 <= A[i] <= 10^6
+
+
 ### Sample Input
 1
 5 2
